@@ -5,7 +5,7 @@ Measuring Phase-Amplitude Coupling (PAC)
 ## Mean Vector Length by Özkurt and Schnitzler (2011)
 
 $$
-\large MVL_{Özkurt} = \frac{1}{\sqrt{N}} \left|\frac{ \frac{1}{N} \sum_{n=1}^N a_{u} e^{i\phi_{l}} }{\quad \frac{1}{N} \sum_{n=1}^N a_{u}^2}\right| 
+\large MVL_{Özkurt} = \frac{1}{\sqrt{N}} \left|\frac{ \frac{1}{N} \sum^N a_{u} e^{i\phi_{l}} }{\quad \frac{1}{N} \sum^N a_{u}^2}\right| 
 $$
 
 $$
