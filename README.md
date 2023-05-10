@@ -23,3 +23,4 @@ $$
 
 <img src="https://github.com/DrAliSeif/Phase_Amplitude_Coupling.PAC/blob/main/MVL(%C3%96zkurt)/cropped_example.png" width=100% height=100%>
 
+## Mean Vector Length by Canolty et al. (2006)
