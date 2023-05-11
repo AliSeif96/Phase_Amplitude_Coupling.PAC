@@ -26,7 +26,9 @@ $$
 $$
 
 $$\large n= \small \text{the total number of data points} $$
+
 $$\large \phi_{l}  =\small \text{the phase angle of the lower frequency band at data point t} $$
+
 $$\large a_{u} =\small \text{the phase angle of the upper frequency band amplitude time series} $$
 
 
@@ -39,7 +41,9 @@ $$
 $$
 
 $$\large n= \small \text{the total number of data points} $$
+
 $$\large \phi_{l}  =\small \text{the phase angle of the lower frequency band at data point t} $$
+
 $$\large a_{u} =\small \text{the phase angle of the upper frequency band amplitude time series} $$
 
 
