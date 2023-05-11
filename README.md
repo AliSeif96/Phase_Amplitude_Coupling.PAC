@@ -27,4 +27,4 @@ $$\large a_{u} =\small \text{the phase angle of the upper frequency band amplitu
 
 
 
-<img src="https://github.com/DrAliSeif/Phase_Amplitude_Coupling.PAC/blob/main/MVL(Canolty)/MVL_Canolty_example.png" width=100% height=100%>
+<img src="https://github.com/DrAliSeif/Phase_Amplitude_Coupling.PAC/blob/main/MVL(Canolty)/MVL_Canolty_example2.png" width=100% height=100%>
