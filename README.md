@@ -8,7 +8,9 @@ $$
 $$
 
 $$\large n= \small \text{the total number of data points} $$
+
 $$\large \phi_{l}  =\small \text{the phase angle of the lower frequency band at data point t} $$
+
 $$\large \phi_{a_{u}} =\small \text{the phase angle of the Hilbert transformed upper frequency band amplitude time series} $$
 
 
