@@ -4,7 +4,7 @@ Measuring Phase-Amplitude Coupling (PAC)
 ## Phase-Locking-Value as Used in Mormann et al. (2005)
 
 $$
-\Huge PLV = \left|\frac{\sum_{j=1}^n e^{i( \phi_{l}  -\phi_{a_{u}}  )}}{n}\right|
+\Huge PLV = \left|\frac{\sum e^{i( \phi_{l}  -\phi_{a_{u}}  )}}{n}\right|
 $$
 
 $$\large n= \small \text{the total number of data points} $$
