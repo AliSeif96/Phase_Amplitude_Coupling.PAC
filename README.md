@@ -43,6 +43,10 @@ $$
 \large P_{(j)} = \frac{\left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(j)}{  \sum \left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(k)}
 $$
 
+$$ 
+\large P_{(j)} = 
+$$
+
 
 $$\large j= \small \text{bin number} $$
 
