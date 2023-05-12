@@ -45,8 +45,11 @@ $$
 
 
 $$\large j= \small \text{bin number} $$
+
 $$\large N= \small \text{number of bins (18)} $$
+
 $$\large \phi_{f_{p}}=\phi_{l}  =\small \text{the phase angle of the lower frequency band at data point t} $$
+
 $$\large A_{f_{A}} =a_{u} =\small \text{the amplitude of the upper frequency band time series} $$
 
 
