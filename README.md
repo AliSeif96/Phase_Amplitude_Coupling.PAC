@@ -64,7 +64,9 @@ $$
 
 
 
+<img src="https://github.com/DrAliSeif/Phase_Amplitude_Coupling.PAC/blob/main/MI(Tort)/MI_Tort_crop.png" width=100% height=100%>
 
+<img src="https://github.com/DrAliSeif/Phase_Amplitude_Coupling.PAC/blob/main/MI(Tort)/MI_Tort2_crop.png" width=100% height=100%>
 
 
 ## Mean Vector Length by Özkurt and Schnitzler (2011)
