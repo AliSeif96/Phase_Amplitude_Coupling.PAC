@@ -33,6 +33,35 @@ $$\large a_{u} =\small \text{the phase angle of the upper frequency band amplitu
 
 <img src="https://github.com/DrAliSeif/Phase_Amplitude_Coupling.PAC/blob/main/MVL(Canolty)/MVL_Canolty_example2.png" width=100% height=100%>
 
+## Modulation Index by Tort et al. (2008)
+
+$$
+\large MI_{Tort} =1+ \frac{\sum_{j=1}^N P_{(j)} \log_{P_{(j)}}  }{\log_{N}} 
+$$
+
+$$ 
+\large P_{(j)} = \frac{\left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(j)}    {  \sum_{k=1}^N \left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(k)  }
+$$
+
+
+$$\large j= \small \text{bin number} $$
+$$\large N= \small \text{number of bins (18)} $$
+$$\large \phi_{f_{p}}=\phi_{l}  =\small \text{the phase angle of the lower frequency band at data point t} $$
+$$\large A_{f_{A}} =a_{u} =\small \text{the amplitude of the upper frequency band time series} $$
+
+
+$$
+P(j) =
+\begin{cases} 
+    P(j) \geq 0  &  \forall j \\
+    P(j) \in [0,1]
+\end{cases}
+$$
+
+
+
+
+
 
 
 ## Mean Vector Length by Özkurt and Schnitzler (2011)
