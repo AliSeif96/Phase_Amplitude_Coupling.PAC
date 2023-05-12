@@ -36,11 +36,11 @@ $$\large a_{u} =\small \text{the phase angle of the upper frequency band amplitu
 ## Modulation Index by Tort et al. (2008)
 
 $$
-\large MI_{Tort} =1+ \frac{\sum_{j=1}^N P_{(j)} \log_{P_{(j)}}  }{\log_{N}} 
+\large MI_{Tort} =1+ \frac{\sum P_{(j)} \log_{P_{(j)}}  }{\log_{N}} 
 $$
 
 $$ 
-\large P_{(j)} = \frac{\left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(j)}{  \sum_{k=1}^N \left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(k)}
+\large P_{(j)} = \frac{\left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(j)}{  \sum \left< A_{f_{A}} \right>_{ \phi_{f_{p}}}(k)}
 $$
 
 
